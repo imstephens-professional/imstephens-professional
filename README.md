@@ -5,9 +5,9 @@ Aspiring developer. Will add more later.
 ## 🦇 Diver: Ruins Resurfaced Game
 "Diver: Ruins Resurfaced" is a platformer game developed in Pico-8 (lua). It was developed during the Fall 2023 semester of St. Mary's College of Maryland for the Game Design course. Check it out [here](https://github.com/imstephens-professional/diver-game).
 
-## ☕ Java Swing Mini Projects 
+# Mini Projects
 These mini projects are for the developer to practice programming as well as show her progress as a developer.
-
+### ☕ Java Swing
 <details>
 <summary> Mini Project List </summary>
 
@@ -21,10 +21,21 @@ These mini projects are for the developer to practice programming as well as sho
 
 </details>
 
-## 📜 JavaScript, HTML, & CSS Mini Projects
-These mini projects are for the developer to practice programming as well as show her progress as a developer.
+### 📜 JavaScript, HTML, & CSS Mini Projects
+<details>
+<summary> Mini Project List </summary>
+  
+| Project Name | Description | Difficulty | Start Date | Completion |
+| --- | --- | --- | --- | --- |
+| Name & Color Prompt     | N/A | Easy | N/A | Planned |
+| One-Page Recipe Website | N/A | Easy | N/A | Planned |
+| Cookie Clicker Game     | N/A | Easy | N/A | Planned |
+| Chemistry 101 Unit Quizzes | N/A | Easy | N/A | Planned |
+| Interactable Periodic Table | N/A | Medium | N/A | Planned |
+| Solitaire Game | N/A | Medium | N/A | Planned |
+</details>
 
-# Other Contributions
+# Other
 For my St. Mary's College of Maryland capstone, I attended two Software Startup Simulator courses. I worked on the Quality Assurance team of two websites, the [CDSpec](https://github.com/drsimonread/COSC4012020) and the [Chesapeake Community Connect](https://github.com/drsimonread/ChesapeakeCommunityConnect). My contributions to the CDSpec website can be seen [here](https://github.com/drsimonread/COSC4012020/tree/master/Documentation) in the 2023 Documentation folders while my contributions to the CCC website can be seen [here](https://github.com/drsimonread/ChesapeakeCommunityConnect/tree/main/Documentation/Google%20Drive) in the 2024 Documentation folders.
 
 <!--
