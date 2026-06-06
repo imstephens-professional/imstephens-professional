@@ -24,6 +24,9 @@ These mini projects are for the developer to practice programming as well as sho
 ## 📜 JavaScript, HTML, & CSS Mini Projects
 These mini projects are for the developer to practice programming as well as show her progress as a developer.
 
+# Other Contributions
+For my St. Mary's College of Maryland capstone, I attended two Software Startup Simulator courses. I worked on the Quality Assurance team of two websites, the [CDSpec](https://github.com/drsimonread/COSC4012020) and the [Chesapeake Community Connect](https://github.com/drsimonread/ChesapeakeCommunityConnect). My contributions to the CDSpec website can be seen [here](https://github.com/drsimonread/COSC4012020/tree/master/Documentation) in the 2023 Documentation folders while my contributions to the CCC website can be seen [here](https://github.com/drsimonread/ChesapeakeCommunityConnect/tree/main/Documentation/Google%20Drive) in the 2024 Documentation folders.
+
 <!--
 **imstephens-professional/imstephens-professional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
