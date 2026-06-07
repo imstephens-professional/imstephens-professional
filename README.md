@@ -2,7 +2,10 @@
 Aspiring developer. Will add more later.
 
 # Projects
-## 🦇 Diver: Ruins Resurfaced Game
+## ⚡ Software Startup Simulator Capstone (2023 - 2024)
+For my St. Mary's College of Maryland capstone, I attended two Software Startup Simulator courses. I worked on the Quality Assurance team of two websites, the [CDSpec](https://github.com/drsimonread/COSC4012020) and the [Chesapeake Community Connect](https://github.com/drsimonread/ChesapeakeCommunityConnect). My contributions to the CDSpec website can be seen [here](https://github.com/drsimonread/COSC4012020/tree/master/Documentation) in the 2023 Documentation folders while my contributions to the CCC website can be seen [here](https://github.com/drsimonread/ChesapeakeCommunityConnect/tree/main/Documentation/Google%20Drive) in the 2024 Documentation folders.
+
+## 🦇 Diver: Ruins Resurfaced Game (2023)
 "Diver: Ruins Resurfaced" is a platformer game developed in Pico-8 (lua). It was developed during the Fall 2023 semester of St. Mary's College of Maryland for the Game Design course. Check it out [here](https://github.com/imstephens-professional/diver-game).
 
 # Mini Projects
@@ -34,8 +37,6 @@ These mini projects are for the developer to practice programming as well as sho
 | Solitaire Game | N/A | Medium | N/A | Planned |
 </details>
 
-# Other
-For my St. Mary's College of Maryland capstone, I attended two Software Startup Simulator courses. I worked on the Quality Assurance team of two websites, the [CDSpec](https://github.com/drsimonread/COSC4012020) and the [Chesapeake Community Connect](https://github.com/drsimonread/ChesapeakeCommunityConnect). My contributions to the CDSpec website can be seen [here](https://github.com/drsimonread/COSC4012020/tree/master/Documentation) in the 2023 Documentation folders while my contributions to the CCC website can be seen [here](https://github.com/drsimonread/ChesapeakeCommunityConnect/tree/main/Documentation/Google%20Drive) in the 2024 Documentation folders.
 
 <!--
 **imstephens-professional/imstephens-professional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
