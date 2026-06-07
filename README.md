@@ -33,6 +33,7 @@ These mini projects are for the developer to practice programming as well as sho
 | One-Page Recipe Website | N/A | Easy | N/A | Planned |
 | Cookie Clicker Game     | N/A | Easy | N/A | Planned |
 | Chemistry 101 Unit Quizzes | N/A | Easy | N/A | Planned |
+| Mock Paint Program | N/A | Medium | N/A | Planned |
 | Interactable Periodic Table | N/A | Medium | N/A | Planned |
 | Solitaire Game | N/A | Medium | N/A | Planned |
 </details>
