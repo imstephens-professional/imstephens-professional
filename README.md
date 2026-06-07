@@ -7,9 +7,9 @@ Aspiring developer. Will add more later.
 
 # Mini Projects
 These mini projects are for the developer to practice programming as well as show her progress as a developer.
-### ☕ Java Swing
+
 <details>
-<summary> Mini Project List </summary>
+<summary> ☕ Java Swing Mini Project List </summary>
 
 | Project Name | Description | Difficulty | Date Started | Completion |
 | ---- | ---- | ---- | ---- | ---- |
@@ -21,9 +21,8 @@ These mini projects are for the developer to practice programming as well as sho
 
 </details>
 
-### 📜 JavaScript, HTML, & CSS Mini Projects
 <details>
-<summary> Mini Project List </summary>
+<summary> 📜 JavaScript, HTML, & CSS Mini ProjectsMini Project List </summary>
   
 | Project Name | Description | Difficulty | Start Date | Completion |
 | --- | --- | --- | --- | --- |
