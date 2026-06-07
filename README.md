@@ -22,7 +22,7 @@ These mini projects are for the developer to practice programming as well as sho
 </details>
 
 <details>
-<summary> 📜 JavaScript, HTML, & CSS Mini ProjectsMini Project List </summary>
+<summary> 📜 JavaScript, HTML, & CSS Mini Project List </summary>
   
 | Project Name | Description | Difficulty | Start Date | Completion |
 | --- | --- | --- | --- | --- |
