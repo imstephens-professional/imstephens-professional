@@ -44,7 +44,7 @@ These mini projects are for the developer to practice programming and to demonst
 | --- | --- | --- | --- | --- |
 | Knight's Tour   | A chessboard is created. A "knight" goes on an open tour across the simulated chess board where it visits every tile on the chessboard once. | Easy | November 2022 | Complete |
 | Bank            | TBA | Easy   | November 2022  | Complete |
-| Client & Server | The client communicates bidirectionally with the server. The server listens for clients and pairs them for peer-to-peer communication. It tracks clients using unique usernames, IP addresses, and real-time online status. New clients cannot claim existing usernames, and active users cannot be duplicat  | Easy   | October 2022 | Complete |
+| Client & Server | The client communicates bidirectionally with the server. The server listens for clients and pairs them for peer-to-peer communication. It tracks clients using unique usernames, IP addresses, and real-time online status. New clients cannot claim existing usernames, and active users cannot be duplicated.  | Easy   | October 2022 | Complete |
 </details>
 
 
