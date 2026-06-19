@@ -42,9 +42,9 @@ These mini projects are for the developer to practice programming and to demonst
   
 | Project Name | Description | Difficulty | Start Date | Completion |
 | --- | --- | --- | --- | --- |
-| Knight's Tour   | A chessboard is created. A "knight" goes on an open tour across the simulated chess board where it visits every tile on the chessboard once. | Easy | November 2022 | Complete |
-| Bank            | TBA | Easy   | November 2022  | Complete |
-| Client & Server | The client communicates bidirectionally with the server. The server listens for clients and pairs them for peer-to-peer communication. It tracks clients using unique usernames, IP addresses, and real-time online status. New clients cannot claim existing usernames, and active users cannot be duplicated.  | Easy   | October 2022 | Complete |
+| [Knight's Tour](https://github.com/imstephens-professional/python_minis/tree/main/Knight's%20Tour)   | A chessboard is created. A "knight" goes on an open tour across the simulated chess board where it visits every tile on the chessboard once. | Easy | November 2022 | Complete |
+| [Bank Branches](https://github.com/imstephens-professional/python_minis/tree/main/Bank)            | A server that runs multiple branches at once. The users can withdraw and deposit money from the bank. | Easy   | November 2022  | Complete |
+| [Client & Server](https://github.com/imstephens-professional/python_minis/tree/main/Client%20%26%20Server%20Talking) | The client communicates bidirectionally with the server. The server listens for clients and pairs them for peer-to-peer communication. It tracks clients using unique usernames, IP addresses, and real-time online status. New clients cannot claim existing usernames, and active users cannot be duplicated.  | Easy   | October 2022 | Complete |
 </details>
 
 
