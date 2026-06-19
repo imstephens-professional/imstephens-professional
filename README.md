@@ -1,4 +1,9 @@
 # Hi there 👋
+I'm Isabella Stephens. I'm a fullstack developer. I'm currently working on projects to build my skills.
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,python,pycharm,c,lua)](https://skillicons.dev)
+
 
 # Projects
 ## ⚡ Software Startup Simulator Capstone (2023 - 2024)
@@ -15,26 +20,10 @@ These mini projects are for the developer to practice programming and to demonst
 
 | Project Name | Description | Difficulty | Date Started | Completion |
 | ---- | ---- | ---- | ---- | ---- |
-| Running Game | N/A | Easy | N/A | N/A |
-| [Stack-Based Calculator](https://github.com/imstephens-professional/java_swing_minis/tree/main/Stack%20Calculator) | A calculator that utilizes the Shunting Yard Algorithm to solve user-inputted problems. | Medium | June 2026 | Incomplete |
 | [Button-Matching Game](https://github.com/imstephens-professional/java_swing_minis/tree/main/Button%20Matching%20Game) | The frame has 8 buttons with 4 matches. The player must click each button to find the corresponding button that matches. The game ends when the player presses "New Game". | Easy | June 2026 | Complete |
 | [Typing Game](https://github.com/imstephens-professional/java_swing_minis/tree/main/Typing%20Game) | The window displays two words: the word the user must type, and the word the user must type next. The game increases in difficulty the more words the user types, going from difficulty 1 (3-letter words) to difficulty 4 (6-letter words). The user has 90 seconds to accurately type as many words as possible. The user can reset the game at any time. | Easy | May 2026 | Complete |
 | [Number-Guessing Game](https://github.com/imstephens-professional/java_swing_minis/tree/main/Number%20Guessing%20Game) | The player must guess a random number. The code informs the player whether they guessed significantly lower, lower, significantly higher, higher, or the exact number. The game ends when the player successfully guesses the number or the player decides to give up. | Easy | May 2026 | Complete |
 
-</details>
-
-<details>
-<summary> 📜 JavaScript, HTML, & CSS Mini Project List </summary>
-  
-| Project Name | Description | Difficulty | Start Date | Completion |
-| --- | --- | --- | --- | --- |
-| Name & Color Prompt     | N/A | Easy | N/A | Planned |
-| One-Page Recipe Website | N/A | Easy | N/A | Planned |
-| Cookie Clicker Game     | N/A | Easy | N/A | Planned |
-| Chemistry 101 Unit Quizzes | N/A | Easy | N/A | Planned |
-| Mock Paint Program | N/A | Medium | N/A | Planned |
-| Interactable Periodic Table | N/A | Medium | N/A | Planned |
-| Solitaire Game | N/A | Medium | N/A | Planned |
 </details>
 
 <details>
