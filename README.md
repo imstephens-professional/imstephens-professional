@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Isabella Stephens. I'm a fullstack developer. I'm currently working on projects to build my skills.
+I'm Isabella Stephens. I'm a fullstack developer. I took two years off of software development, but I'm back at it full force. Right now, I'm dedicating time every day to refreshing my knowledge and building out some new projects in Java.
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,python,pycharm,c,lua)](https://skillicons.dev)
@@ -18,22 +18,22 @@ These mini projects are for the developer to practice programming and to demonst
 <details>
 <summary> ☕ Java Mini Project List </summary>
 
-| Project Name | Description | Difficulty | Date Started | Completion |
-| ---- | ---- | ---- | ---- | ---- |
-| [Button-Matching Game](https://github.com/imstephens-professional/java_swing_minis/tree/main/Button%20Matching%20Game) | The frame has 8 buttons with 4 matches. The player must click each button to find the corresponding button that matches. The game ends when the player presses "New Game". | Easy | June 2026 | Complete |
-| [Typing Game](https://github.com/imstephens-professional/java_swing_minis/tree/main/Typing%20Game) | The window displays two words: the word the user must type, and the word the user must type next. The game increases in difficulty the more words the user types, going from difficulty 1 (3-letter words) to difficulty 4 (6-letter words). The user has 90 seconds to accurately type as many words as possible. The user can reset the game at any time. | Easy | May 2026 | Complete |
-| [Number-Guessing Game](https://github.com/imstephens-professional/java_swing_minis/tree/main/Number%20Guessing%20Game) | The player must guess a random number. The code informs the player whether they guessed significantly lower, lower, significantly higher, higher, or the exact number. The game ends when the player successfully guesses the number or the player decides to give up. | Easy | May 2026 | Complete |
+| Project Name | Description | Date Started |
+| ---- | ---- | ---- | 
+| [Button-Matching Game](https://github.com/imstephens-professional/java_swing_minis/tree/main/Button%20Matching%20Game) | The frame has 8 buttons with 4 matches. The player must click each button to find the corresponding button that matches. The game ends when the player presses "New Game". | June 2026 |
+| [Typing Game](https://github.com/imstephens-professional/java_swing_minis/tree/main/Typing%20Game) | The window displays two words: the word the user must type, and the word the user must type next. The game increases in difficulty the more words the user types, going from difficulty 1 (3-letter words) to difficulty 4 (6-letter words). The user has 90 seconds to accurately type as many words as possible. The user can reset the game at any time. | May 2026 |
+| [Number-Guessing Game](https://github.com/imstephens-professional/java_swing_minis/tree/main/Number%20Guessing%20Game) | The player must guess a random number. The code informs the player whether they guessed significantly lower, lower, significantly higher, higher, or the exact number. The game ends when the player successfully guesses the number or the player decides to give up. | May 2026 |
 
 </details>
 
 <details>
 <summary> 🐍 Python Mini Project List </summary>
   
-| Project Name | Description | Difficulty | Start Date | Completion |
-| --- | --- | --- | --- | --- |
-| [Knight's Tour](https://github.com/imstephens-professional/python_minis/tree/main/Knight's%20Tour)   | A chessboard is created. A "knight" goes on an open tour across the simulated chess board where it visits every tile on the chessboard once. | Easy | November 2022 | Complete |
-| [Bank Branches](https://github.com/imstephens-professional/python_minis/tree/main/Bank)            | A server that runs multiple branches at once. The users can withdraw and deposit money from the bank. | Easy   | November 2022  | Complete |
-| [Client & Server](https://github.com/imstephens-professional/python_minis/tree/main/Client%20%26%20Server%20Talking) | The client communicates bidirectionally with the server. The server listens for clients and pairs them for peer-to-peer communication. It tracks clients using unique usernames, IP addresses, and real-time online status. New clients cannot claim existing usernames, and active users cannot be duplicated.  | Easy   | October 2022 | Complete |
+| Project Name | Description | Start Date |
+| --- | --- | --- | 
+| [Knight's Tour](https://github.com/imstephens-professional/python_minis/tree/main/Knight's%20Tour)   | A chessboard is created. A "knight" goes on an open tour across the simulated chess board where it visits every tile on the chessboard once. | November 2022 | 
+| [Bank Branches](https://github.com/imstephens-professional/python_minis/tree/main/Bank)            | A server that runs multiple branches at once. The users can withdraw and deposit money from the bank. | November 2022 |
+| [Client & Server](https://github.com/imstephens-professional/python_minis/tree/main/Client%20%26%20Server%20Talking) | The client communicates bidirectionally with the server. The server listens for clients and pairs them for peer-to-peer communication. It tracks clients using unique usernames, IP addresses, and real-time online status. New clients cannot claim existing usernames, and active users cannot be duplicated.  | October 2022 |
 </details>
 
 
