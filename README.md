@@ -20,6 +20,7 @@ These mini projects are for the developer to practice programming and to demonst
 
 | Project Name | Description | Date Started |
 | ---- | ---- | ---- | 
+| [Text-Based Adventure Game](https://github.com/imstephens-professional/java_minis/tree/main/Text-Based%20Adventure%20Game) | A game where the player selects at least one option to proceed in the story. | June 2026 |
 | [Button-Matching Game](https://github.com/imstephens-professional/java_swing_minis/tree/main/Button%20Matching%20Game) | The frame has 8 buttons with 4 matches. The player must click each button to find the corresponding button that matches. The game ends when the player presses "New Game". | June 2026 |
 | [Typing Game](https://github.com/imstephens-professional/java_swing_minis/tree/main/Typing%20Game) | The window displays two words: the word the user must type, and the word the user must type next. The game increases in difficulty the more words the user types, going from difficulty 1 (3-letter words) to difficulty 4 (6-letter words). The user has 90 seconds to accurately type as many words as possible. The user can reset the game at any time. | May 2026 |
 | [Number-Guessing Game](https://github.com/imstephens-professional/java_swing_minis/tree/main/Number%20Guessing%20Game) | The player must guess a random number. The code informs the player whether they guessed significantly lower, lower, significantly higher, higher, or the exact number. The game ends when the player successfully guesses the number or the player decides to give up. | May 2026 |
