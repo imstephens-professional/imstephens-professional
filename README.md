@@ -2,7 +2,7 @@
 I'm Isabella Stephens. I'm a fullstack developer. I took two years off of software development, but I'm back at it full force. Right now, I'm dedicating time every day to refreshing my knowledge and building new projects in Java.
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,python,pycharm,c,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,html,vscode,python,pycharm,c,lua)](https://skillicons.dev)
 
 
 # Projects
